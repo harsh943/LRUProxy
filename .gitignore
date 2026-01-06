@@ -1,0 +1,26 @@
+# Compiled object files
+*.o
+*.obj
+
+# Executable
+proxy
+
+# Debug files
+*.dSYM/
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+
+# Tarball
+*.tgz
+*.tar.gz
+
+# Logs
+*.log
